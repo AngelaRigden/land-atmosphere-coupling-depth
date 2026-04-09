@@ -1,6 +1,6 @@
 # Apparent land–atmosphere coupling depends on where soil moisture is measured
 
-Code and processed data used to generate the analyses and figures in Rigden et al. (GRL, in review).
+Code and processed data used to generate the analyses and figures in Rigden et al. (submitted for peer-review).
 
 ## Contents
 
