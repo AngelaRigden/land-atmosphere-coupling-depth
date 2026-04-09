@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+
+uscrn_daily01/
+outputs/
+uscrn_processed/uscrn_daily_station_time_2000_2026.nc
